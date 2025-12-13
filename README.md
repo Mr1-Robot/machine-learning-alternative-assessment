@@ -1,2 +1,2 @@
-# machine-learning-alternative-assessment
-A Comparative Study of CNN and Visual-Language Models for Medical Visual Question Answering on Radiology Images
+# Machine Learning Alternative Assessment
+A Comparative Study of **CNN** and **Visual-Language Models** for Medical Visual Question Answering on **Radiology** Images
